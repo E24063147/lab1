@@ -1,0 +1,25 @@
+命令稿啟動於 2018年03月14日 下午 03:03:50
+]0;~
+[32mDanny@DESKTOP-HT28TSQ [33m~[0m
+$ whoami;pwd
+Danny
+/home/Danny
+]0;~
+[32mDanny@DESKTOP-HT28TSQ [33m~[0m
+$ giy[Kt config -o[Kl
+user.email=Danny871124@gmail.com
+user.name=E24063147
+]0;~
+[32mDanny@DESKTOP-HT28TSQ [33m~[0m
+$ git clone https://git [Khub.com/E24063147/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 13, done.[K
+remote: Compressing objects:   9% (1/11)   [Kremote: Compressing objects:  18% (2/11)   [Kremote: Compressing objects:  27% (3/11)   [Kremote: Compressing objects:  36% (4/11)   [Kremote: Compressing objects:  45% (5/11)   [Kremote: Compressing objects:  54% (6/11)   [Kremote: Compressing objects:  63% (7/11)   [Kremote: Compressing objects:  72% (8/11)   [Kremote: Compressing objects:  81% (9/11)   [Kremote: Compressing objects:  90% (10/11)   [Kremote: Compressing objects: 100% (11/11)   [Kremote: Compressing objects: 100% (11/11), done.[K
+remote: Total 13 (delta 2), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:   7% (1/13)   Unpacking objects:  15% (2/13)   Unpacking objects:  23% (3/13)   Unpacking objects:  30% (4/13)   Unpacking objects:  38% (5/13)   Unpacking objects:  46% (6/13)   Unpacking objects:  53% (7/13)   Unpacking objects:  61% (8/13)   Unpacking objects:  69% (9/13)   Unpacking objects:  76% (10/13)   Unpacking objects:  84% (11/13)   Unpacking objects:  92% (12/13)   Unpacking objects: 100% (13/13)   Unpacking objects: 100% (13/13), done.
+]0;~
+[32mDanny@DESKTOP-HT28TSQ [33m~[0m
+$ exit
+
+命令稿已於 2018年03月14日 下午 03:05:14
+ 完成
